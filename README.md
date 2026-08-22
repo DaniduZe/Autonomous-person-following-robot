@@ -93,8 +93,8 @@ flowchart TD
 ### 1. Prerequisites & Environment Setup
 Clone this repository to your Raspberry Pi:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/DaniduZe/Autonomous-person-following-robot.git
+cd Autonomous-person-following-robot
 ```
 
 Create and activate a Python virtual environment (e.g. with Miniforge or `venv`):
