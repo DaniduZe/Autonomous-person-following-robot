@@ -1,4 +1,4 @@
-# 🛒 Autonomous Person-Following Smart Cart
+# 🛒 Autonomous Person-Following Smart Robot
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose%20Estimation-orange.svg)](https://developers.google.com/mediapipe)
